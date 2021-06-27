@@ -3,44 +3,50 @@ let Content = {
       {
          "name": "Garden Overflow",
          "description": "A gardening community",
-         "image": "../assets/GardenOverflow.jpg",
+         "image": "images/GardenOverflow.jpg",
          "link": "https://garden-overflow.herokuapp.com/",
-         "repo": "https://github.com/arianaw15/Garden-Overflow"
+         "repo": "https://github.com/arianaw15/Garden-Overflow",
+         "key": "1"
       },
       {
          "name": "",
          "description": "",
          "image": "",
          "link": "",
-         "repo": ""
+         "repo": "",
+         "key": "2"
       },
       {
          "name": "",
          "description": "",
          "image": "",
          "link": "",
-         "repo": ""
+         "repo": "",
+         "key": "3"
       },
       {
          "name": "",
          "description": "",
          "image": "",
          "link": "",
-         "repo": ""
+         "repo": "",
+         "key": "4"
       },
       {
          "name": "",
          "description": "",
          "image": "",
          "link": "",
-         "repo": ""
+         "repo": "",
+         "key": "5"
       },
       {
          "name": "",
          "description": "",
          "image": "",
          "link": "",
-         "repo": ""
+         "repo": "",
+         "key": "6"
       }
    ]
 };
