@@ -20,6 +20,7 @@ function Header() {
          <LinkContainer to="/Contact">
             <Nav.Link>Contact</Nav.Link>
          </LinkContainer>
+         {/* Add resume link, email, and phone like v1 */}
       </Navbar>
    )
 }
