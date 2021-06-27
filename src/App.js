@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import About from './pages/About';
 import Contact from './pages/Contact';
 import Invalid from './pages/Invalid';
@@ -7,11 +6,13 @@ import Portfolio from './pages/Portfolio';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import MouseParticles from 'react-mouse-particles';
 
 function App() {
   return (
     <Router>
       <div className="bg-dark">
+        <MouseParticles g={6} num={6} color="random" level={6} />
         <Header />
         <Switch>
           <Route exact path="/" component={About} />
