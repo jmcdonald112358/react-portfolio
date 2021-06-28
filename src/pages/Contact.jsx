@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import Card from 'react-bootstrap/Card';
 import Container from 'react-bootstrap/esm/Container';
 import Form from 'react-bootstrap/Form';
+import Button from 'react-bootstrap/Button';
 
 
 function Contact() {
@@ -16,9 +17,9 @@ function Contact() {
    }
 
    return (
-      <Container className="bg-dark">
-         <h2 className="text-light justify-content-center">Get in touch!</h2>
-         <Card className="bg-secondary mt-4">
+      <Container>
+         <h1 className="text-success text-center my-3">Get in touch!</h1>
+         <Card className="bg-light mt-4">
             <Card.Body>
                <Form action="https://submit-form.com/Kc5wdGFV" noValidate validated={validated} onSubmit={handleSubmit}>
                   <Form.Group>
@@ -41,7 +42,7 @@ function Contact() {
                            placeholder="Place details of your inquiry here..."
                            required
                         />
-                     <button type="submit">Submit</button>
+                     <Button className="mt-3" variant="primary" type="submit">Submit</Button>
                   </Form.Group>
                </Form>
             </Card.Body>
