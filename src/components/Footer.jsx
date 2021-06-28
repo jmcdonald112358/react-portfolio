@@ -5,7 +5,7 @@ import Navbar from 'react-bootstrap/Navbar';
 
 function Footer() {
    return (
-      <Navbar fixed="bottom" bg="dark" variant="dark" expand="lg" className="justify-content-center text-light">
+      <Navbar fixed="bottom" bg="light" expand="lg" className="justify-content-center text-info">
          <span>&copy; Copyright Justin McDonald 2020</span>
       </Navbar>
    )
