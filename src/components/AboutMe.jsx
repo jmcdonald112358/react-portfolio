@@ -9,13 +9,13 @@ import Image from 'react-bootstrap/Image'
 
 function AboutMe() {
    return (
-      <Container className="bg-dark" variant="dark">
+      <Container>
          <Row xs={6} md={4}>
             <Col xs={6} md={4}>
-               <Image roundedCircle fluid src={Headshot} alt="headshot image of the author" />
+               <Image className="mt-3" roundedCircle fluid src={Headshot} alt="headshot image of the author" />
             </Col>
             <Col xs={6} md={8}>
-               <Card  body className="mt-3 pt-3 mx-5 bg-secondary">
+               <Card  body className="mt-3 pt-3 mx-5 bg-light">
                   <p>
                   My name is Justin McDonald and I am a soon-to-be graduate of a full-stack web development bootcamp! Currently, I work in technology for a local sales enablement company called Primary Intelligence as a Product Manager. As a Product Manager, I oversee the design and implementation of roughly 40% of our (very large) proprietary web app, TruVoice, which is a robust dashboard and analytics tool we built to support the services we provide to our clients.
                   </p>
