@@ -11,7 +11,7 @@ import MouseParticles from 'react-mouse-particles';
 function App() {
   return (
     <Router>
-      <div className="bg-dark">
+      <div>
         <MouseParticles g={6} num={6} color="random" level={6} />
         <Header />
         <Switch>
