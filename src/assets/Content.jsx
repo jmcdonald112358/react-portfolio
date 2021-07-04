@@ -35,7 +35,7 @@ let Content = {
       {
          "name": "Budgetr",
          "description": "A simple PWA for logging incoming and outgoing financial transactions — a virtual checkbook register, if you will.",
-         "image": "images/budgetr.jpg",
+         "image": "images/Budgetr.jpg",
          "link": "https://jmcd-budget-tracker-pwa.herokuapp.com/",
          "repo": "https://github.com/jmcdonald112358/budget-tracker-pwa",
          "key": "5"
