@@ -27,17 +27,17 @@ let Content = {
       {
          "name": "Employee Directory",
          "description": "A simple web app for viewing a directory of employees in an organization, including a picture of each employee and their relevant details.",
-         "image": "",
-         "link": "",
-         "repo": "https://github.com/jmcdonald112358/Employee-Directory",
+         "image": "images/EmployeeDir.jpg",
+         "link": "https://jmcdonald112358.github.io/EmployeeDirectoryCRA/",
+         "repo": "https://github.com/jmcdonald112358/EmployeeDirectoryCRA",
          "key": "4"
       },
       {
-         "name": "Employee Management",
-         "description": "A simple node.js app for viewing, adding, modifying, and deleting employee information relevant to their position in the company.",
-         "image": "",
-         "link": "",
-         "repo": "https://github.com/jmcdonald112358/employee-management",
+         "name": "Budgetr",
+         "description": "A simple PWA for logging incoming and outgoing financial transactions — a virtual checkbook register, if you will.",
+         "image": "images/budgetr.jpg",
+         "link": "https://jmcd-budget-tracker-pwa.herokuapp.com/",
+         "repo": "https://github.com/jmcdonald112358/budget-tracker-pwa",
          "key": "5"
       },
       {
