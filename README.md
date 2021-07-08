@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# Justin McDonald Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 
-## Available Scripts
+### Description
+This project is a new revision of my developer portfolio, highlighting more of what I learned over the course of the full-stack web development bootcamp. It is a simple interface for learning a little about me, checking out some of the projects I've worked on or contributed to, and sending an inquiry if you'd like to hire me for some freelance work or to collaborate on a project.
 
-In the project directory, you can run:
+### Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [How to contribute](#contributing)
+- [Credits](#accreditations)
+- [Questions](#questions)
 
-### `yarn start`
+### Installation
+This is a deployed web app that does not require any installation.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Usage
+To use this application, follow these steps:
+1. Navigate to https://justin-mcdonald-portfolio.herokuapp.com/
+2. Click through each tab to view the corresponding content
+    1. `About me` relates some basic info about who I am and what I have worked on
+    2. `Portfolio` provides some basic info about some of the projects I've worked on
+    3. `Contact` provides a form you can fill out to get in touch with me to inquire about collaboration or freelance hiring
+![Justin McDonald Portfolio](https://user-images.githubusercontent.com/73570812/124887342-50dfde00-df92-11eb-9558-ba72c4abe04f.png)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### License
+Licensed under the following: MIT License
 
-### `yarn test`
+### Contributing
+To contribute to this project, email jmcdonald112358@gmail.com to be added to the repository
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Accreditations
+- Create React App npm package for basic project setup
+- Referenced most week 19 and week 20 activities, as well as components from most recent group project
+- General Google searching and StackOverflow for assistance working through specific issues (deploying a React app, using `react-bootstrap`, `react-router-bootstrap`, and `react-mouse-particles` npm packages, etc.)
+- [Landon Ross](https://github.com/landonross) for functional form submission
 
-### `yarn build`
+### Additional notes
+- I've had some issues with the general layout styling, so this version is a little more bland than I would like. I will be continuing to work on it to get the styling more in line with what I want (and more exciting), as well as addition of more of the projects I've worked on.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Questions
+If you have any questions about the project, please feel free to message at **jmcdonald112358@gmail.com**, connect with me on GitHub: **[jmcdonald112358](https://github.com/jmcdonald112358)**, or use the **[Contact form](https://justin-mcdonald-portfolio.herokuapp.com/Contact)** on my website to send an inquiry.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Links
+- [Repository](https://github.com/jmcdonald112358/react-portfolio)
+- [Deployed app](https://justin-mcdonald-portfolio.herokuapp.com/)
