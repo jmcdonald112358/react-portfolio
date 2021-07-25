@@ -3,7 +3,7 @@ import { LinkContainer } from 'react-router-bootstrap';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
 import NavDropdown from 'react-bootstrap/NavDropdown';
-import Resume from '../assets/Justin_McDonald_Resume2019.pdf';
+import Resume from '../assets/Justin_McDonald_Resume_2021_dev.pdf';
 
 function Header() {
    return (
